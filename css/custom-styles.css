@@ -1,0 +1,6 @@
+:root{
+    --primary-color: #FCEAE8;
+}
+.landing-background{
+    background-color: var(--primary-color);
+}
